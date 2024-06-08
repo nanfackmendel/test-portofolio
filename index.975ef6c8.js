@@ -27090,12 +27090,12 @@ var _stylesCss = require("./styles.css");
     name: "Nanfack Mendel",
     title: "STEM learn and community changemaker ",
     email: "nanfackmendel32@gmail.com",
-    gitHub: "nanfack voufo Mendel",
-    instagram: "mr question & cie ",
-    linkedIn: "mendel nanfack voufo ",
+    gitHub: "https://github.com/nanfackmendel",
+    instagram: " ",
+    linkedIn: "https://www.linkedin.com/in/mendel-nanfack-voufo-7089a8270/ ",
     medium: "",
     twitter: "",
-    youTube: ""
+    youTube: "http://www.youtube.com/@mendelnanfack3391"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
